@@ -1,4 +1,4 @@
-#### Building a React based Task app - users can create or delete tasks. They can add and remove reminders for each.
+# A React based Task app - users can create or delete tasks. They can add and remove reminders for each.
 
 ### Run `npm install` to install dependencies in package.json file
 
