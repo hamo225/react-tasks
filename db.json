@@ -17,12 +17,6 @@
       "day": "",
       "reminder": true,
       "id": 3
-    },
-    {
-      "text": "test 1",
-      "day": "",
-      "reminder": false,
-      "id": 4
     }
   ]
 }
