@@ -4,7 +4,7 @@
       "id": 1,
       "text": "Vet appointment",
       "day": "Feb 20",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 2,
@@ -15,7 +15,7 @@
     {
       "text": "new test",
       "day": "",
-      "reminder": false,
+      "reminder": true,
       "id": 3
     },
     {
